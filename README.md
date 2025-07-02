@@ -56,7 +56,7 @@
 ### 🧩 GitHub Aktivite Grafiği
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mehmetkrn&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetkrn&theme=react-dark" alt="activity graph" />
 </p>
 
 ---
