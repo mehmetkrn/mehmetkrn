@@ -40,15 +40,15 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkrn&show_icons=true&theme=radical" alt="mehmetkrn stats" />
+  <img src="https://mehmetkrn-stats.vercel.app/api?username=mehmetkrn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="mehmetkrn stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehmetkrn&theme=radical" alt="mehmetkrn streak" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=mehmetkrn&theme=radical&hide_border=true&count_private=true" alt="mehmetkrn streak" />
+  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkrn&layout=compact&theme=radical" alt="mehmetkrn top langs" />
+  <img src="https://mehmetkrn-stats.vercel.app/api/top-langs/?username=mehmetkrn&layout=compact&theme=radical&count_private=true" alt="mehmetkrn top langs" />
 </p>
 
 ---
