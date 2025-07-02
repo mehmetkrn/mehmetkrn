@@ -34,16 +34,12 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub İstatistikleri
- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkrn&layout=compact&theme=radical" alt="mehmetkrn top langs" />
 </p>
-
 ---
+
+ 
 
 ### 🧩 GitHub Aktivite Grafiği
 
