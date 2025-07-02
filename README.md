@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 Hakkımda
 
-- 🔭 Şu anda aktif olarak .NET Core, Razor, SignalR ve SQL Server ile çalışıyorum  
+- 🔭 Şu anda aktif olarak .NET Core, JavaScript ve SQL Server ile çalışıyorum  
 - 🌱 Yazılım mimarisi, performans iyileştirme ve test otomasyonuna ilgi duyuyorum  
 - 🧠 Yeni teknolojileri öğrenmeye ve kendimi geliştirmeye açığım  
 - 💬 Bana .NET, JS, SQL, performans optimizasyonu vb. konularda soru sorabilirsiniz   
