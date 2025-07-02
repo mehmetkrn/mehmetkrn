@@ -50,9 +50,9 @@
 ### 💬 İletişim
 
 <p>
-  <a href="mailto:mehmet@fixark.com">
+   <a href="mailto:kiranmehmet62@gmail.com">
     <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> 
   <a href="https://www.linkedin.com/in/mehmet-kiran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
