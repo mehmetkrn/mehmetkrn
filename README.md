@@ -14,7 +14,7 @@
 - 🧠 Yeni teknolojileri öğrenmeye ve kendimi geliştirmeye açığım  
 - 💬 Bana .NET, JS, SQL, performans optimizasyonu vb. konularda soru sorabilirsiniz  
 - 📫 E-posta: mehmet@fixark.com *(örnek)*  
-- 🌐 LinkedIn: [linkedin.com/in/mehmetkrn](https://www.linkedin.com/in/mehmetkrn)  
+- 🌐 LinkedIn: [linkedin.com/in/mehmetkrn](https://www.linkedin.com/in/mehmet-kiran)  
 
 ---
 
@@ -63,7 +63,7 @@
   <a href="mailto:mehmet@fixark.com">
     <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mehmetkrn" target="_blank">
+  <a href="https://www.linkedin.com/in/mehmet-kiran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
