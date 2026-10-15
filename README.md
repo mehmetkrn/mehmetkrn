@@ -1,10 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Mehmet</h1>
 <h3 align="center">Full Stack .NET Developer | 7+ yıl deneyim</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetkrn&label=Profil+Ziyaretleri&color=0e75b6&style=flat" alt="mehmetkrn" />
-</p>
-
+ 
 ---
 
 ### 🧑‍💻 Hakkımda
@@ -35,17 +31,7 @@
 </p>
 
 ---
-
  
-
-### 🧩 GitHub Aktivite Grafiği
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetkrn&theme=react-dark" alt="activity graph" />
-</p>
-
----
-
 ### 💬 İletişim
 
 <p>
